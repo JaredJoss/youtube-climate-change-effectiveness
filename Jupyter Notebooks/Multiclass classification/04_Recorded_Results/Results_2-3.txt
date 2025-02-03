@@ -1,0 +1,8 @@
+SGDClassifier -> 0.5490196078431373
+MultinomialNB -> 0.5490196078431373
+SVC -> 0.6666666666666666
+LinearSVC -> 0.6666666666666666
+RandomForestClassifier -> 0.49019607843137253
+LogisticRegression -> 0.5490196078431373
+KNeighborsClassifier -> 0.39215686274509803
+GradientBoostingClassifier -> 0.5098039215686274
